@@ -105,7 +105,7 @@ AI-подбор перспективных акций, которых нет в 
 **Шаг 4: Установка проекта**
 
 1. Клонируйте репозиторий
-   git clone https://github.com/ваш-username/FinBot.git
+   git clone https://github.com/SkyRocker81/FinBot.git
    cd FinBot
    
 2. Создайте виртуальное окружение
