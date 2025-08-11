@@ -1,0 +1,18 @@
+# Основные зависимости
+requests>=2.31.0
+python-telegram-bot>=20.7
+psycopg2-binary>=2.9.9
+python-dotenv>=1.0.1
+pandas>=2.2.0
+urllib3>=2.2.0
+apscheduler>=3.10.0
+bcrypt>=4.1.2
+
+# Для работы с GigaChat и SSL
+certifi>=2024.0.0
+pyopenssl>=23.0.0
+cryptography>=42.0.0
+
+# Для обработки текста и кодировки
+regex>=2023.0.0
+chardet>=5.2.0
